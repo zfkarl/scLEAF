@@ -29,3 +29,6 @@ scLEAF is a versatile framework for single-cell multi-omics data analysis, which
 
 ##### Fine-tuning on ASAP-seq Data 
 <pre>sh finetune_asap.sh </pre> 
+
+## Acknowledgement
+Our codebase is built based on scCLIP, timm, transformers, and Pytorch Lightning. We thank the authors for the nicely organized code!
