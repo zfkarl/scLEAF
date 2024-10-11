@@ -1,1 +1,1 @@
-CUDA_VISIBLE_DEVICES=3 python train_asap.py --lr 1e-4 --batch_size 256 --checkpoint '/data2/zeyu/zeyu1/scLEAF-v2/results/cite-asap/1_False_500_0.00015_asap/lightning_logs/checkpoints/last.ckpt' >res/asap_small_finetune_last_1e-4.txt
+CUDA_VISIBLE_DEVICES=3 python train_asap.py --lr 1e-4 --batch_size 256 --checkpoint './results/cite-asap/1_False_500_0.00015_asap/lightning_logs/checkpoints/last.ckpt'
