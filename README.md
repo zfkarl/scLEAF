@@ -17,7 +17,7 @@ We use the Vicuna-7B model to extract the cell-level text embeddings. Download e
 Download embeddings from https://sites.google.com/yale.edu/scelmolib.
 
 #### Datasets
-#####CITE-seq and ASAP-seq Data 
+##### CITE-seq and ASAP-seq Data 
 Download dataset from https://github.com/SydneyBioX/scJoint/blob/main/data.zip.
 
 #### Cell Type Annotation 
