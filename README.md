@@ -14,7 +14,7 @@ scLEAF is a versatile framework for single-cell multi-omics data analysis, which
 We use the Vicuna-7B model to extract the cell-level text embeddings. Download embeddings from https://drive.google.com/drive/folders/1aArcZjDckc7my9gPvVqN0h8X-7a0brLV.
 
 ##### 2. Feature-level Text Embeddings 
-Download embeddings from https://sites.google.com/yale.edu/scelmolib.
+The original embeddings can be downloaded from https://sites.google.com/yale.edu/scelmolib. We also provide the preprocessed version in https://drive.google.com/drive/folders/1aArcZjDckc7my9gPvVqN0h8X-7a0brLV.
 
 #### Datasets
 ##### CITE-seq and ASAP-seq Data 
