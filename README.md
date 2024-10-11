@@ -10,12 +10,12 @@ scLEAF is a versatile framework for single-cell multi-omics data analysis, which
 - Python 3.10, PyTorch>=1.21.0,  numpy>=1.24.0, are required for the current codebase.
 
 #### LLM Embeddings
-**Cell-level Text Embeddings:**
+**Cell-level Text Embeddings:** We use the Vicuna-7B model to extract the cell-level text embeddings. Download embeddings from https://drive.google.com/drive/folders/1aArcZjDckc7my9gPvVqN0h8X-7a0brLV.
 
-**Feature-level Text Embeddings:** download embeddings from https://sites.google.com/yale.edu/scelmolib.
+**Feature-level Text Embeddings:** Download embeddings from https://sites.google.com/yale.edu/scelmolib.
 
 #### Datasets
-**CITE-seq and ASAP-seq Data:** download dataset from https://github.com/SydneyBioX/scJoint/blob/main/data.zip.
+**CITE-seq and ASAP-seq Data:** Download dataset from https://github.com/SydneyBioX/scJoint/blob/main/data.zip.
 
 #### Cell Type Annotation 
 ##### Pre-training on CITE-seq Data 
