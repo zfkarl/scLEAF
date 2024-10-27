@@ -3,7 +3,7 @@
 ## Introduction
 scAgent is a versatile framework for single-cell multi-omics data analysis, which injects LLMs' priors via multi-agent collaboration.
 
-![image](https://github.com/zfkarl/scAgent/blob/master/imgs/framework.png)
+![image](imgs/framework.png)
 
 ## Getting Started
 #### Requirements
